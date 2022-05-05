@@ -536,9 +536,9 @@ git pull 远程地址(别名) 分支
 
 #### 跨团队协作
 
-<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052011647.png" alt="image-20220417111536961" style="zoom:67%;" />
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417111642798.png" alt="image-20220417111642798" style="zoom:67%;" />
+
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052023576.png" alt="image-20220417111642798" style="zoom:67%;" />
 
 
 
