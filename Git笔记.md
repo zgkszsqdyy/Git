@@ -349,15 +349,15 @@ GitHab网址：https://github.com/[ ](https://github.com/)
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220415164019479.png" alt="image-20220415164019479" style="zoom:80%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052009509.png" alt="image-20220415164019479" style="zoom:80%;" />
 
 
 
 2、
 
-  <img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220415164657773.png" alt="image-20220415164657773" style="zoom: 67%;" />
+  <img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052010786.png" alt="image-20220415164657773" style="zoom: 67%;" />
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220415165209696.png" alt="image-20220415165209696" style="zoom:80%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052010289.png" alt="image-20220415165209696" style="zoom:80%;" />
 
 #### 创建远程库别名
 
@@ -490,7 +490,7 @@ origin  https://github.com/zgkszsqdyy/git_demo1.git (push)
 
 ##### 拉取成员
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417103150698.png" alt="image-20220417103150698" style="zoom: 67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052011712.png" alt="image-20220417103150698" style="zoom: 67%;" />
 
 <img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417103222525.png" alt="image-20220417103222525" style="zoom: 67%;" />
 
@@ -500,13 +500,13 @@ origin  https://github.com/zgkszsqdyy/git_demo1.git (push)
 
 复制地址并通过微信钉钉等方式发送给该用户，复制内容如下：
 
-![image-20220417103623265](C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417103623265.png)
+![image-20220417103623265](https://gitee.com/js199000124/photo/raw/master/%20images/202205052011474.png)
 
 ​          
 
 ***在 **atguigulinghuchong** 这个账号中的地址栏复制收到邀请的链接，点击接受邀请。                                                                                                                                                                                                                                                                                                               
 
-​                        ![image-20220417103739909](C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417103739909.png)                                                                                                                                                                                                                                                                                              
+​                        ![image-20220417103739909](https://gitee.com/js199000124/photo/raw/master/%20images/202205052011618.png)                                                                                                                                                                                                                                                                                              
 
 ##### 成员操作文件
 
@@ -536,7 +536,7 @@ git pull 远程地址(别名) 分支
 
 #### 跨团队协作
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417111536961.png" alt="image-20220417111536961" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052011647.png" alt="image-20220417111536961" style="zoom:67%;" />
 
 <img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417111642798.png" alt="image-20220417111642798" style="zoom:67%;" />
 
@@ -550,7 +550,7 @@ git pull 远程地址(别名) 分支
 
 ##### 1、创建 git.ignore在用户目录下
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417121437405.png" alt="image-20220417121437405" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052011814.png" alt="image-20220417121437405" style="zoom:67%;" />
 
 git.ignore内容
 
@@ -591,7 +591,7 @@ http://www.java.com/en/download/help/error_hotspot.xml hs_err_pid*
 
 在用户加目录下
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417121724135.png" alt="image-20220417121724135" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052011260.png" alt="image-20220417121724135" style="zoom:50%;" />
 
 2、内容
 
@@ -610,65 +610,65 @@ http://www.java.com/en/download/help/error_hotspot.xml hs_err_pid*
 
 #### idea定位Git
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417122346120.png" alt="image-20220417122346120" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012379.png" alt="image-20220417122346120" style="zoom:50%;" />
 
 
 
 #### 初始化本地库
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417141144204.png" alt="image-20220417141144204" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012686.png" alt="image-20220417141144204" style="zoom:50%;" />
 
 
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417141225730.png" alt="image-20220417141225730" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012833.png" alt="image-20220417141225730" style="zoom:50%;" />
 
 ### 添加暂存区和本地库
 
 #### 添加到暂存区
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417141406519.png" alt="image-20220417141406519" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012809.png" alt="image-20220417141406519" style="zoom:50%;" />
 
 #### 添加到本地库
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417141455332.png" alt="image-20220417141455332" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012560.png" alt="image-20220417141455332" style="zoom:50%;" />
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417141654435.png" alt="image-20220417141654435" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012829.png" alt="image-20220417141654435" style="zoom:50%;" />
 
 
 
 ### 切换版本
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417142838052.png" alt="image-20220417142838052" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012620.png" alt="image-20220417142838052" style="zoom:67%;" />
 
 ### 分支操作
 
 #### 创建分支
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417143711481.png" alt="image-20220417143711481" style="zoom: 67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052012847.png" alt="image-20220417143711481" style="zoom: 67%;" />
 
 #### 切换分支
 
 <img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417143851960.png" alt="image-20220417143851960" style="zoom:80%;" />
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417144039656.png" alt="image-20220417144039656" style="zoom: 67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013348.png" alt="image-20220417144039656" style="zoom: 67%;" />
 
 ### 合并操作
 
 #### 正常合并
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417145905227.png" alt="image-20220417145905227" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013665.png" alt="image-20220417145905227" style="zoom:67%;" />
 
 #### 合并冲突
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417154017820.png" alt="image-20220417154017820" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013820.png" alt="image-20220417154017820" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417154502833.png" alt="image-20220417154502833" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013109.png" alt="image-20220417154502833" style="zoom:67%;" />
 
-3、<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417154619832.png" alt="image-20220417154619832" style="zoom:67%;" />
+3、<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013289.png" alt="image-20220417154619832" style="zoom:67%;" />
 
 
 
@@ -678,35 +678,35 @@ http://www.java.com/en/download/help/error_hotspot.xml hs_err_pid*
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417160636294.png" alt="image-20220417160636294" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013850.png" alt="image-20220417160636294" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417160741413.png" alt="image-20220417160741413" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013858.png" alt="image-20220417160741413" style="zoom:67%;" />
 
 
 
 3、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417160821900.png" alt="image-20220417160821900" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052013136.png" alt="image-20220417160821900" style="zoom:67%;" />
 
 4、获取个人令牌
 
 4.1、登陆自己的githab账号
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417160929073.png" alt="image-20220417160929073" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014189.png" alt="image-20220417160929073" style="zoom:50%;" />
 
 4.2
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417161126795.png" alt="image-20220417161126795" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014682.png" alt="image-20220417161126795" style="zoom:50%;" />
 
 4.3
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417161357569.png" alt="image-20220417161357569" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014898.png" alt="image-20220417161357569" style="zoom:50%;" />
 
 4.4
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417161631750.png" alt="image-20220417161631750" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014940.png" alt="image-20220417161631750" style="zoom:50%;" />
 
 
 
@@ -714,11 +714,11 @@ http://www.java.com/en/download/help/error_hotspot.xml hs_err_pid*
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417163840174.png" alt="image-20220417163840174" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014342.png" alt="image-20220417163840174" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417164334596.png" alt="image-20220417164334596" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014122.png" alt="image-20220417164334596" style="zoom:67%;" />
 
 ### push到GitHab
 
@@ -732,11 +732,11 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417165058888.png" alt="image-20220417165058888" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014394.png" alt="image-20220417165058888" style="zoom:50%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417165519701.png" alt="image-20220417165519701" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052014032.png" alt="image-20220417165519701" style="zoom:50%;" />
 
 
 
@@ -752,21 +752,21 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417170338395.png" alt="image-20220417170338395" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015950.png" alt="image-20220417170338395" style="zoom:50%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220417170551128.png" alt="image-20220417170551128" style="zoom:50%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015187.png" alt="image-20220417170551128" style="zoom:50%;" />
 
 
 
 ### clone到本地库
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418154927579.png" alt="image-20220418154927579" style="zoom: 67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015252.png" alt="image-20220418154927579" style="zoom: 67%;" />
 
 
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418155021687.png" alt="image-20220418155021687" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015688.png" alt="image-20220418155021687" style="zoom:67%;" />
 
 
 
@@ -778,19 +778,19 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418161605435.png" alt="image-20220418161605435" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015822.png" alt="image-20220418161605435" style="zoom:67%;" />
 
 2、
 
 设置仓库名称
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418161637998.png" alt="image-20220418161637998" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015414.png" alt="image-20220418161637998" style="zoom:67%;" />
 
 3、修改仓库状态
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418161912760.png" alt="image-20220418161912760" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015916.png" alt="image-20220418161912760" style="zoom:67%;" />
 
 2、
 
@@ -798,7 +798,7 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 3、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162130586.png" alt="image-20220418162130586" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052015008.png" alt="image-20220418162130586" style="zoom:67%;" />
 
 
 
@@ -806,27 +806,27 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162232228.png" alt="image-20220418162232228" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016703.png" alt="image-20220418162232228" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162304762.png" alt="image-20220418162304762" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016392.png" alt="image-20220418162304762" style="zoom:67%;" />
 
 3、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162340931.png" alt="image-20220418162340931" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016305.png" alt="image-20220418162340931" style="zoom:67%;" />
 
 4、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162426774.png" alt="image-20220418162426774" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016686.png" alt="image-20220418162426774" style="zoom:67%;" />
 
 5、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162527770.png" alt="image-20220418162527770" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016601.png" alt="image-20220418162527770" style="zoom:67%;" />
 
 6、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418162615593.png" alt="image-20220418162615593" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016096.png" alt="image-20220418162615593" style="zoom:67%;" />
 
 
 
@@ -838,11 +838,11 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418165930063.png" alt="image-20220418165930063" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016536.png" alt="image-20220418165930063" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418170232958.png" alt="image-20220418170232958" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052016587.png" alt="image-20220418170232958" style="zoom:67%;" />
 
 
 
@@ -850,11 +850,11 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418171153967.png" alt="image-20220418171153967" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017266.png" alt="image-20220418171153967" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418172451289.png" alt="image-20220418172451289" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017260.png" alt="image-20220418172451289" style="zoom:67%;" />
 
 
 
@@ -864,25 +864,25 @@ push 是将本地库代码推送到远程库，如果本地库代码跟远程库
 
 1、在码云上新建仓库
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418173124926.png" alt="image-20220418173124926" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017825.png" alt="image-20220418173124926" style="zoom:67%;" />
 
 2、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418173159783.png" alt="image-20220418173159783" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017795.png" alt="image-20220418173159783" style="zoom:67%;" />
 
 3、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418173414965.png" alt="image-20220418173414965" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017149.png" alt="image-20220418173414965" style="zoom:67%;" />
 
 4、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418173501522.png" alt="image-20220418173501522" style="zoom: 67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017570.png" alt="image-20220418173501522" style="zoom: 67%;" />
 
 5、
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418173814280.png" alt="image-20220418173814280" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017596.png" alt="image-20220418173814280" style="zoom:67%;" />
 
 ### 更新
 
-<img src="C:\Users\zsq\AppData\Roaming\Typora\typora-user-images\image-20220418174127800.png" alt="image-20220418174127800" style="zoom:67%;" />
+<img src="https://gitee.com/js199000124/photo/raw/master/%20images/202205052017275.png" alt="image-20220418174127800" style="zoom:67%;" />
 
